@@ -12,7 +12,7 @@
     The UniFi® Controller software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.
   </Overview>
   <Registry>https://hub.docker.com/r/Ashmodaj/docker-unifi</Registry>
-  <Repository>Ashmodaj/docker-unifi</Repository>
+  <Repository>ashmodaj/docker-unifi</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Beta>False</Beta>
