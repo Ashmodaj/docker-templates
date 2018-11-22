@@ -4,14 +4,14 @@
   <Name>unifi</Name>
   <Support></Support>
   <Project>https://community.ubnt.com/</Project>
-  <Description>The UniFi® Controller software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.</Description>
+  <Description>The UniFi® Controller software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance. Forked from Linuxserver.io idocker image for latest UniFi version implementation</Description>
   <Registry>https://hub.docker.com/r/Ashmodaj/docker-unifi</Registry>
   <Repository>Ashmodaj/docker-unifi</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Beta>False</Beta>
   <Category>Network:Management Tools:</Category>
-  <Date>2018-10-15</Date>
+  <Date>2018-11-22</Date>
   <Changes></Changes>
   <Environment>
     <Variable>
@@ -72,7 +72,7 @@
   </Data>
   <Version></Version>
   <WebUI>https://[IP]:[PORT:8443]</WebUI>
-  <Icon>https://raw.githubusercontent.com/Ashmodaj/docker-templates/master/Ashmodaj/img/unifi-icon.png</Icon>
+  <Icon>https://raw.githubusercontent.com/Ashmodaj/docker-templates/master/img/unifi-icon.png</Icon>
   <ExtraParams></ExtraParams>
 <BaseImage>lsiobase/ubuntu:xenial</BaseImage>
 </Container>
