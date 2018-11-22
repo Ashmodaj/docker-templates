@@ -4,7 +4,10 @@
   <Name>unifi</Name>
   <Support></Support>
   <Project>https://community.ubnt.com/</Project>
-  <Description>The UniFi® Controller software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance. Forked from Linuxserver.io idocker image for latest UniFi version implementation</Description>
+  <Description>
+    The UniFi® Controller software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.[br]
+    Forked from Linuxserver.io docker image for latest UniFi version implementation.
+  </Description>
   <Registry>https://hub.docker.com/r/Ashmodaj/docker-unifi</Registry>
   <Repository>Ashmodaj/docker-unifi</Repository>
   <BindTime>true</BindTime>
